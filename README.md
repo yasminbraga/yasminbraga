@@ -1,6 +1,6 @@
 ## Oii! Eu sou a Yasmin Braga
 - :woman_student: Me formei em Ciência e Tecnologia e atualmente curso Engenharia Física
-- :woman_technologist: Entusiasta em tecnologia desde sempre, conheci programação na universidade e me tornei uma grande entusiasta
+- :woman_technologist: Entusiasta em tecnologia desde sempre e apaixonada pelo mundo da programação
 - :computer: Sou desenvolvedora Frontend e as tecnologias que uso no meu dia a dia são HTML, CSS, Javascript e NodeJs
 - :blue_book: Tenho estudado ReactJs para dar continuidade ao meu desenvolvimento na área de frontend.
 
