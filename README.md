@@ -1,12 +1,13 @@
 ## Oii! Eu sou a Yasmin Braga
-- 🔭 Eu sou formada em Ciência e Tecnologia e sou estudante de Engenharia Física no Pará
-- 🌱 Entusiasta de programação e desenvolvedora Frontend Júnior
+- :woman_student: Me formei em Ciência e Tecnologia e atualmente curso Engenharia Física
+- :woman_technologist: Entusiasta em tecnologia desde sempre, conheci programação na universidade e me tornei uma grande entusiasta
+- :computer: Sou desenvolvedora Frontend e as tecnologias que uso no meu dia a dia são HTML, CSS, Javascript e NodeJs
+- :blue_book: Tenho estudado ReactJs para dar continuidade ao meu desenvolvimento na área de frontend.
+
 <div style="display: inline-block">
   <p><a href="https://giphy.com/gifs/girl-lofi-diegofarao-iDvCzaRjNV61J5jtc0">via GIPHY</a></p>
   <img align="left" src="https://media.giphy.com/media/iDvCzaRjNV61J5jtc0/giphy.gif" />
 </div>
-
-
 
 <div align="center">
   <a href="https://github.com/yasminbraga">
