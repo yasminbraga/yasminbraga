@@ -4,11 +4,6 @@
 - :computer: Sou desenvolvedora Frontend e as tecnologias que uso no meu dia a dia são HTML, CSS, Javascript.
 - :blue_book: Tenho estudado ReactJs para dar continuidade ao meu desenvolvimento na área de frontend.
 
-<div style="display: inline-block">
-  <p><a href="https://giphy.com/gifs/girl-lofi-diegofarao-iDvCzaRjNV61J5jtc0">via GIPHY</a></p>
-  <img align="left" src="https://media.giphy.com/media/iDvCzaRjNV61J5jtc0/giphy.gif" />
-</div>
-
 <div align="center">
   <a href="https://github.com/yasminbraga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminbraga&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
